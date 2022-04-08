@@ -1,0 +1,16 @@
+{
+  "name": "express-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "valenoirs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
